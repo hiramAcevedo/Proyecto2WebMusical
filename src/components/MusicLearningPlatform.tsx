@@ -25,7 +25,7 @@ const MusicLearningPlatform = () => {
           <div>
             <Link to="/" className="mr-4 hover:underline">Back to Home</Link>
             <button onClick={toggleDarkMode} className="p-2 rounded-full">
-              {darkMode ? '☀️' : ' '}
+              {darkMode ? '☀️' : '🌙'}
             </button>
           </div>
         </div>
