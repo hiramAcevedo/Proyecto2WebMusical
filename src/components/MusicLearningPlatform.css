@@ -1,0 +1,25 @@
+/* src/components/MusicLearningPlatform.css */
+.app {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .dark-mode {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  button {
+    font-size: 1.5rem;
+    background: none;
+    border: none;
+    cursor: pointer;
+  }
